@@ -55,7 +55,7 @@ interests:
   - Music Performance (Euphonium & Tuba)
 
 education:
-  - area: High School Diploma
+  - area: High School
     institution: Arnold O. Beckman High School
     icon: ""
     date_start: 2022-08-01
@@ -187,13 +187,10 @@ languages:
   - name: English
     percent: 100
   - name: Chinese (Mandarin)
-    percent: 85
-  - name: Spanish
-    percent: 70
-  - name: French
-    percent: 65
-  - name: German
-    percent: 65
+    percent: 100
+  - name: Cantonese
+    percent: 100
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
