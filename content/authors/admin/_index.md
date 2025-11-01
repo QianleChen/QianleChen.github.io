@@ -1,20 +1,21 @@
 ---
+<!-- TODO: You can edit personal info, education, work, skills, awards, and social links in this file -->
 # Display name
-title: Alex Johnson
+title: Qianle (Bill) Chen
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Qianle
+last_name: Chen
 
 # Pronouns (optional)
 pronouns: he/him
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: 🌱
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,150 +24,210 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Research Assistant | Environmental Stewardship Advocate | High School Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: UCLA Joint Institute for Regional Earth System Science and Engineering
+    url: https://jifresse.ucla.edu/
+  - name: Arnold O. Beckman High School
+    url: https://aobhs-tustin.org/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:qianlechen4324@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
-  - icon: brands/github
-    url: https://github.com/alexjohnsonai
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://www.linkedin.com/in/qianle-chen/
+  - icon: hero/globe-alt
+    url: https://HarmonyWithNature.org
+    label: Harmony with Nature
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Environmental Science & Sustainability
+  - Climate Research & Wildfire Analysis
+  - Urban Heat Patterns & Thermal Imaging
+  - AI-based Decision Support Systems
+  - Marine Conservation & Scuba Diving
+  - Language & Cultural Learning
+  - Music Performance (Euphonium & Tuba)
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: High School Diploma
+    institution: Arnold O. Beckman High School
     icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+    date_start: 2022-08-01
+    date_end: ''
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
+      **GPA:** Unweighted 3.97/4.00 | Weighted 4.67/4.00
+      
+      **Advanced Coursework:** AP Calculus AB, AP Literature, AP Statistics, AP Chinese, AP Computer Science Principles, AP Physics 1, AP Physics C Mechanics, AP World History, AP Gov/Econ
+      
+      **Leadership:** Wind Ensemble First Chair (Euphonium & Tuba), 8+ years music dedication. Performed at Carnegie Hall and Renée and Henry Segerstrom Concert Hall.
+  - area: Dual Enrollment (College Coursework)
+    institution: Irvine Valley College
     icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
+    date_start: 2023-06-01
+    date_end: ''
     summary: |
-      GPA: 4.0/4.0
-
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
+      **GPA:** 4.00/4.00
+      
+      **Courses:** Intro to Computer Systems, Environmental Law, Intro to Sustainability, Intro to Ecology, Intro to Psychology, Biological Psychology, Principles Micro Econ, Principles Macro Econ
+      
+      Taking advanced college courses while in high school, demonstrating academic rigor and commitment to interdisciplinary learning.
+  - area: Research Summer Program
+    institution: California State Summer School for Mathematics and Science
     icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
+    date_start: 2025-07-01
+    date_end: 2025-08-01
     summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
+      **Location:** Los Angeles, CA
+      
+      Led a first-author poster project titled *Satellite Measurements of Evapotranspiration Predict Plant Water Stress*.
+      
+      Developed research skills in environmental data analysis and scientific communication.
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Research Assistant and Project Coordinator
+    company_name: UCLA Joint Institute for Regional Earth System Science and Engineering
+    company_url: 'https://jifresse.ucla.edu/'
     icon: ''
-    date_start: 2020-01-01
+    date_start: 2025-08-01
     date_end: ''
     summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
+      **Supervisor:** Prof. Joshua B. Fisher
+      
+      - Analyzed thermal satellite imagery to study wildfire progression and urban heat patterns using GIS visualizations and thermal analytics; findings featured in NASA Caltech Jet Propulsion Lab's ECOSTRESS gallery.
+      - Coordinated a $1M research project with the Orange County Fire Department to develop an AI-based decision-support model for wildfire response, serving as the primary liaison to translate operational needs into research goals and contributing to the design of algorithms for resource allocation and multi-incident decision-making.
+  - position: Lab Assistant and Coordinator
+    company_name: UCLA Languages and Transcultural Studies
+    company_url: 'https://www.international.ucla.edu/'
     icon: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
+    date_start: 2020-08-01
+    date_end: ''
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      **Supervisor:** Prof. Nina Bjekovic
+      
+      - Received training under professor's supervision, developing expertise in language program outreach and student engagement. Organized multilingual education initiatives, including language fairs and information sessions.
+      - Served as the primary liaison between UCLA's language programs and 30+ high schools in Southern California, managing outreach efforts for the German, French, Chinese, and Spanish language departments. Facilitated access for over 300 students to linguistic and cultural learning opportunities.
+  - position: Environmental Research Intern
+    company_name: Narrak E-Bikes LLC
+    company_url: ''
+    icon: ''
+    date_start: 2022-06-01
+    date_end: 2022-08-01
+    summary: |
+      **Location:** Chino Hill, CA
+      
+      - Conducted research on sustainable recycling methods and eco-friendly packaging solutions to reduce waste by 30% and improve the environmental impact of e-bike production.
+      - Developed a patent focusing on innovative packaging designs that incorporated biodegradable and recyclable materials, enhancing the company's sustainability practices and aligning with green manufacturing standards.
+  - position: Recreational Volunteer Scuba Diver
+    company_name: Certified Scuba Diver for Ocean Conservation
+    company_url: ''
+    icon: ''
+    date_start: 2022-03-01
+    date_end: ''
+    summary: |
+      **Location:** Irvine, CA
+      
+      - PADI-certified Rescue and Dive Against Debris diver dedicated to marine conservation through hands-on underwater cleanup and data reporting initiatives.
+      - Partnered with environmental organizations to conduct targeted dives that remove ocean debris, mitigate pollution, and contribute critical findings to the PADI global database. Additionally certified in First Aid and CPR by the Red Cross, ensuring safety leadership in all diving operations.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Technical & Research Skills
     items:
-      - name: Python & PyTorch
-        description: ''
-        percent: 95
-        icon: code-bracket
-      - name: Machine Learning
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
-        description: ''
+      - name: Python & Data Analytics
+        description: 'BME280, LTR-559, MICS6814 sensors, AtmoFlow mobile app'
         percent: 85
-        icon: cloud
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking in the Rockies
-        description: ''
+        icon: code-bracket
+      - name: GIS & Remote Sensing
+        description: 'Thermal satellite imagery, ECOSTRESS data analysis'
         percent: 80
-        icon: person-simple-walk
-      - name: Building Custom PCs
-        description: ''
+        icon: chart-bar
+      - name: Environmental Monitoring
+        description: 'Air quality tracking, climate data visualization'
         percent: 90
-        icon: cpu-chip
-      - name: Sci-Fi Reading
-        description: ''
-        percent: 70
-        icon: book-open
+        icon: beaker
+  - name: Leadership & Communication
+    items:
+      - name: Nonprofit Management
+        description: 'Founded Harmony with Nature 501(c)(3)'
+        percent: 95
+        icon: users
+      - name: Multilingual Education
+        description: 'German, French, Chinese, Spanish outreach'
+        percent: 85
+        icon: language
+      - name: Research Coordination
+        description: '$1M project liaison with Orange County Fire Dept'
+        percent: 90
+        icon: clipboard-document-list
+  - name: Hobbies & Passions
+    color: '#16a34a'
+    color_border: '#22c55e'
+    items:
+      - name: Scuba Diving & Marine Conservation
+        description: 'PADI Rescue Diver, Ocean Cleanup'
+        percent: 90
+        icon: beaker
+      - name: Music Performance
+        description: 'Euphonium & Tuba, Carnegie Hall performances'
+        percent: 95
+        icon: musical-note
+      - name: Environmental Advocacy
+        description: 'Campus workshops, 250+ participants'
+        percent: 100
+        icon: globe-alt
 
 languages:
   - name: English
     percent: 100
+  - name: Chinese (Mandarin)
+    percent: 85
   - name: Spanish
-    percent: 50
+    percent: 70
+  - name: French
+    percent: 65
+  - name: German
+    percent: 65
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
-    icon: hero/trophy
+  - title: PADI Rescue Diver Certification
+    url: https://www.padi.com/
+    date: '2022-03-01'
+    awarder: Professional Association of Diving Instructors
+    icon: hero/beaker
     summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
-    icon: hero/currency-dollar
+      Certified as a Rescue and Dive Against Debris diver. Also certified in First Aid and CPR by the Red Cross, ensuring safety leadership in all diving operations.
+  - title: Red Cross First Aid & CPR Certification
+    url: https://www.redcross.org/
+    date: '2022-03-01'
+    awarder: American Red Cross
+    icon: hero/heart
     summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
+      Certified in emergency response, First Aid, and CPR procedures.
+  - title: Carnegie Hall Performance
+    url: https://www.carnegiehall.org/
+    date: '2023-06-01'
+    awarder: Carnegie Hall
+    icon: hero/musical-note
     summary: |
-      Recognized for contributions to scaling laws in deep learning.
+      Performed as First Chair with prestigious Pacific Symphony at Carnegie Hall, representing TUSD honor band.
+  - title: Renée and Henry Segerstrom Concert Hall Performance
+    url: ''
+    date: '2024-05-01'
+    awarder: Pacific Symphony
+    icon: hero/musical-note
+    summary: |
+      Performed at the renowned Segerstrom Center for the Arts as part of the Pacific Symphony.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Qianle (Bill) Chen is a Research Assistant at UCLA's Joint Institute for Regional Earth System Science and Engineering, where he analyzes thermal satellite imagery to study wildfire progression and urban heat patterns. His work has been featured in NASA's Caltech Jet Propulsion Lab ECOSTRESS gallery. As the founder and president of Harmony with Nature, a 501(c)(3) nonprofit, he promotes environmental stewardship through educational workshops and sustainability initiatives on campus and in Orange County, engaging over 250 participants. Bill is also a PADI-certified Rescue Diver passionate about marine conservation and a dedicated musician who has performed at Carnegie Hall. He is committed to bridging science, environmental advocacy, and community engagement to create a more sustainable future.

@@ -1,4 +1,5 @@
 ---
+<!-- TODO: You can customize sections, titles, text content, and design settings here -->
 # Leave the homepage title empty to use the site title
 title: ''
 date: 2022-10-24
@@ -31,14 +32,14 @@ sections:
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '🌍 My Research & Work'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I'm a Research Assistant at UCLA's Joint Institute for Regional Earth System Science and Engineering, where I analyze thermal satellite imagery to study wildfire progression and urban heat patterns. My work has been featured in NASA's Caltech Jet Propulsion Lab ECOSTRESS gallery.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I'm passionate about applying data science and remote sensing to environmental challenges. Currently, I'm coordinating a $1M research project with the Orange County Fire Department to develop AI-based decision-support models for wildfire response and resource allocation.
 
-        Please reach out to collaborate 😃
+        Through my nonprofit, Harmony with Nature, I bridge research and community action, promoting environmental stewardship through education and hands-on conservation initiatives. Let's collaborate to create a more sustainable future! 🌱
     design:
       columns: '1'
   - block: collection

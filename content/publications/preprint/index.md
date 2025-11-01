@@ -1,4 +1,5 @@
 ---
+<!-- TODO: Replace this placeholder with your actual preprint. Edit title, authors, date, abstract, and links -->
 title: "An example preprint / working paper"
 authors:
 - admin

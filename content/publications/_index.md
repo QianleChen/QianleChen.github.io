@@ -1,4 +1,5 @@
 ---
+<!-- TODO: Add your actual publications here. See example publications in subfolders for the format -->
 title: Publications
 cms_exclude: true
 

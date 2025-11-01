@@ -1,125 +1,287 @@
-# [The Academic CV That Gets You Hired](https://github.com/HugoBlox/theme-academic-cv)
+# Qianle (Bill) Chen - Academic CV
 
-[![Screenshot](.github/preview.webp)](https://hugoblox.com/templates/academic-cv/start/?utm_source=github&utm_medium=readme)
-
-<h1 align="center">Build an Academic CV and Resumé That Stands Out</h1>
+<h1 align="center">🌍 Environmental Science Research & Sustainability Advocacy</h1>
 
 <p align="center">
-  <strong>Your unfair advantage in academia and tech.</strong><br/>
-  Showcase your work, boost your citations, and land your dream job at places like <strong>Meta, Google, and Stanford</strong>.
+  <strong>Research Assistant at UCLA | Founder of Harmony with Nature | Student Researcher</strong><br/>
+  Bridging climate science, data analytics, and community action for a sustainable future.
 </p>
 
 <p align="center">
-  <a href="https://hugoblox.com/templates/academic-cv/start?utm_source=github&utm_medium=readme"><b>🚀 Deploy Your Free CV in 60s</b></a>
-  &nbsp;•&nbsp;
-  <a href="https://hugoblox.com/templates/?open=academic-cv&loading=true&utm_source=github&utm_medium=readme">Live Demo</a>
-  &nbsp;•&nbsp;
-  <a href="https://hugoblox.com/pro?utm_source=github&utm_medium=readme"><b>✨ Upgrade to Pro</b></a>
-</p>
-
-<p align="center">
-  Trusted by 250,000+ researchers, students, and educators worldwide.
-</p>
-
-<p align="center">
-  <a href="https://discord.gg/z8wNYzb">
-    <img src="https://img.shields.io/discord/722225264733716590?label=Join%20Discord&style=social" alt="Discord">
+  <a href="https://www.linkedin.com/in/qianle-chen/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="https://github.com/HugoBlox/theme-academic-cv">
-    <img src="https://img.shields.io/github/stars/HugoBlox/theme-academic-cv?label=Star%20Academic%20CV&style=social" alt="GitHub Stars">
+  <a href="https://HarmonyWithNature.org">
+    <img src="https://img.shields.io/badge/Website-Harmony%20with%20Nature-green?style=social" alt="Harmony with Nature">
+  </a>
+  <a href="mailto:qianlechen4324@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=social&logo=gmail" alt="Email">
   </a>
 </p>
 
 ---
 
-## Your Career Starts Here
+## 👋 About Me
 
-The Academic CV template is designed for impact. Whether you're an AI researcher, a recent graduate, or a seasoned professor, this is the last resumé you'll ever need.
+I'm a high school senior and aspiring environmental scientist conducting research at UCLA's Joint Institute for Regional Earth System Science and Engineering (JIFRESSE). My work focuses on:
 
-- **✍️ Showcase Your Expertise:** Easily write content with Markdown, Jupyter, or RStudio. Display your publications, talks, and projects in a stunning, professional layout.
-- **📈 Boost Your Citations:** Automatic BibTeX import and SEO-optimized pages mean your work gets discovered more easily, increasing your research impact.
-- **💼 Land Your Dream Job:** Create a memorable online presence that impresses recruiters from top tech firms and prestigious universities.
-- **🚀 Launch in Minutes:** No coding required. The Hugo Blox Builder lets you customize everything with drag-and-drop sections.
+- 🔥 **Wildfire & Climate Research** - Analyzing thermal satellite imagery to study wildfire progression and urban heat patterns (featured in NASA's Caltech JPL ECOSTRESS gallery)
+- 🤖 **AI for Emergency Response** - Coordinating a $1M research project with Orange County Fire Department to develop AI-based decision-support models
+- 🌱 **Environmental Stewardship** - Founder & President of Harmony with Nature, a 501(c)(3) nonprofit engaging 250+ participants in sustainability education
+- 📊 **IoT & Data Science** - Developed an air quality monitoring system with Python analytics and mobile app deployment
 
-<p align="center">
-  <a href="https://hugoblox.com/templates/academic-cv/start?utm_source=github&utm_medium=readme">
-    <img src="https://img.shields.io/badge/⚡️%20Get%20Your%20CV%20in%2060s-ff4655?style=for-the-badge" alt="Deploy this template" width="400">
-  </a>
-</p>
+I'm passionate about applying remote sensing, GIS, and data science to address environmental challenges while bridging research and community action.
 
 ---
 
-## Level Up with Pro Templates
+## 🔬 Research & Projects
 
-Ready to take your career to the next level? Our Pro templates offer exclusive designs and features to help you stand out even more.
+### Current Research
+- **UCLA JIFRESSE** - Wildfire progression analysis using thermal satellite imagery
+- **Orange County Fire Department Partnership** - AI decision-support for resource allocation
+- **Air Quality Monitoring** - IoT sensor network with real-time pollutant tracking
 
-<!-- <p align="center">
-  <img src="" alt="Free vs Pro templates">
-</p>-->
-
-| Feature              | Academic CV (Free)       | Academic CV Pro & Resumé Pro     |
-| -------------------- | ------------------------ | -------------------------------- |
-| **Design**           | Professional & clean     | **Exclusive premium designs**    |
-| **Layouts**          | Standard resumé sections | **Advanced layouts & timelines** |
-| **Call to Action**   | Simple contact link      | **Prominent CTA buttons**        |
-| **First Impression** | Strong                   | **Unforgettable**                |
-
-<br/>
-<p align="center">
-  <a href="https://hugoblox.com/pro?utm_source=github&utm_medium=readme"><b>💎 Get the Pro Pass</b></a> — Includes all Pro templates for a one-time price.<br/>
-  <a href="https://hugoblox.com/templates/academic-cv-pro/start?utm_source=github&utm_medium=readme">✨ Deploy Academic CV Pro</a>
-  &nbsp;•&nbsp;
-  <a href="https://hugoblox.com/templates/resume-pro/start?utm_source=github&utm_medium=readme">📄 Deploy Resumé Pro</a>
-</p>
+### Featured Projects
+- 🌿 **Harmony with Nature** - 501(c)(3) nonprofit promoting sustainability through education
+- 📱 **AtmoFlow App** - Cross-platform mobile app for live air quality monitoring
+- 📚 **The Little Tree That Could** - Self-published children's book on urban reforestation (500+ trees funded)
 
 ---
 
-## What Researchers Say
+## 🛠️ Technical Skills
 
-> “Hugo Blox saved me 40+ hours on my lab site. BibTeX integration auto-updates publications — **our citations are up 3×**.”
-> — **Dr. Sarah Yang**, AI Researcher
+- **Programming:** Python, data analytics, mobile app development
+- **Research Tools:** GIS, remote sensing, thermal imagery analysis, ECOSTRESS data
+- **Environmental Science:** Climate research, air quality monitoring, IoT sensors (BME280, LTR-559, MICS6814)
+- **Languages:** English (native), Chinese (Mandarin), Spanish, French, German
 
 ---
 
-## Get Started in Minutes
+## 🎓 Education
 
-### Recommended (Fastest)
+- **Arnold O. Beckman High School** - GPA: 3.97/4.00 (Unweighted), 4.67/4.00 (Weighted)
+- **Irvine Valley College** - Dual Enrollment, GPA: 4.00/4.00
+- **California State Summer School for Mathematics and Science** - Research Program (2025)
 
-Deploy your site to GitHub Pages in just 60 seconds with our browser-based starter.
+---
 
-👉 <a href="https://hugoblox.com/templates/academic-cv/start?utm_source=github&utm_medium=readme"><b>Start with the Academic CV Template</b></a>
+## 🚀 Getting Started with This Site
 
-### Prefer the Command Line?
+This academic CV website is built with [Hugo Blox Builder](https://hugoblox.com/) and showcases my research, projects, and experiences in environmental science and sustainability.
 
-Use the local quickstart:
+### Run Locally
 
 ```bash
-# 1. Install Hugo Extended → https://docs.hugoblox.com/getting-started/install-hugo/
-# 2. Clone this starter
-git clone https://github.com/HugoBlox/theme-academic-cv my-site
-cd my-site
+# Install dependencies
+pnpm install
 
-# 3. Run locally
-pnpm install && hugo server
+# Start development server
+hugo server
+
+# Visit http://localhost:1313
 ```
 
-For more guides, visit our documentation at **https://docs.hugoblox.com/**.
+### Deploy
+
+This site can be deployed to:
+- **GitHub Pages** (recommended)
+- **Netlify**
+- **Vercel**
+- Any static hosting service
 
 ---
 
-## Join the Community
+## 🌐 Connect With Me
 
-Join thousands of creators in our vibrant community to ask questions, share your work, and help us improve.
+- 💼 [LinkedIn](https://www.linkedin.com/in/qianle-chen/)
+- 🌱 [Harmony with Nature](https://HarmonyWithNature.org)
+- 📧 [qianlechen4324@gmail.com](mailto:qianlechen4324@gmail.com)
 
-- 💬 <a href="https://discord.gg/z8wNYzb">Discord</a>
-- 📚 <a href="https://docs.hugoblox.com/?utm_source=github&utm_medium=readme">Docs & Guides</a>
-- 🐦 <a href="https://x.com/BuildLore">X / Twitter</a>
-- ⭐ <a href="https://github.com/HugoBlox/hugo-blox-builder">Star on GitHub</a>
+---
+
+## 📚 Resources
+
+- **Hugo Blox Documentation:** [docs.hugoblox.com](https://docs.hugoblox.com/)
+- **Hugo Documentation:** [gohugo.io/documentation](https://gohugo.io/documentation/)
+- **UCLA JIFRESSE:** [jifresse.ucla.edu](https://jifresse.ucla.edu/)
+
+---
+
+## 📝 Edit Guide: How to Update Your Site Content
+
+This guide explains exactly where to edit each component of your academic CV site.
+
+### 👤 Personal Profile & Biography
+
+**File:** `content/authors/admin/_index.md`
+
+Edit this file to update:
+- Name, role/tagline, and bio paragraph (at the bottom)
+- Email, social links (LinkedIn, website, etc.)
+- Interests/research areas
+- Education history (degrees, institutions, dates, GPA, coursework)
+- Work experience (positions, companies, dates, descriptions)
+- Skills (technical, leadership, hobbies)
+- Languages (with proficiency percentages)
+- Awards & certifications
+
+**Avatar Photo:** Replace `content/authors/admin/avatar.png` with your photo (keep the filename).
+
+---
+
+### 🏠 Homepage Sections
+
+**File:** `content/_index.md`
+
+This file controls all homepage sections/widgets:
+
+- **Research Section:** Edit the markdown block titled "My Research & Work"
+- **Section Visibility:** Each block has an `id` (e.g., `papers`, `talks`, `news`). To hide a section, comment it out or remove it.
+- **Section Order:** Rearrange blocks to change the order of sections on your homepage.
+
+---
+
+### 📚 Publications
+
+**Location:** `content/publications/`
+
+- **Main Index:** `content/publications/_index.md` (controls the publications page settings)
+- **Individual Publications:** Create a subfolder for each publication (e.g., `content/publications/my-paper/`)
+  - Add `index.md` with frontmatter (title, authors, date, publication venue, abstract, DOI, links)
+  - Add `featured.jpg` for a cover image
+  - Add `cite.bib` for BibTeX citation
+  - Add PDF files directly to the folder
+
+**Example:** See `content/publications/conference-paper/` for the format.
+
+---
+
+### 💼 Projects
+
+**Location:** `content/projects/`
+
+- **Main Index:** `content/projects/_index.md` (controls the projects page)
+- **Individual Projects:** Each project has its own subfolder (e.g., `content/projects/air-quality-sensor/`)
+  - Edit `index.md` with frontmatter (title, date, summary, tags, links)
+  - Add `featured.png` or `featured.jpg` for a project image
+  - Write detailed project descriptions in markdown below the frontmatter
+
+**Current Projects:**
+- `pandas/` → Air Quality Sensor Development Project
+- `pytorch/` → Harmony with Nature Non-Profit
+- `scikit/` → The Little Tree That Could
+
+---
+
+### 🎤 Talks & Events
+
+**Location:** `content/events/`
+
+- **Main Index:** `content/events/_index.md` (controls the talks/events page)
+- **Individual Talks:** Create a subfolder for each talk (e.g., `content/events/my-talk/`)
+  - Add `index.md` with frontmatter (title, event, location, date, abstract, slides/video links)
+  - Add `featured.jpg` for an event image
+
+**Example:** See `content/events/example/` for the format.
+
+---
+
+### 📰 Blog Posts
+
+**Location:** `content/blog/`
+
+- **Main Index:** `content/blog/_index.md`
+- **Individual Posts:** Each post has its own subfolder with `index.md`
+- Format is similar to projects/publications
+
+---
+
+### 📄 CV/Resume PDF
+
+**Location:** `static/uploads/resume.pdf`
+
+Replace this file with your updated CV/resume PDF. The download button on the homepage links to this file.
+
+---
+
+### ⚙️ Site Configuration
+
+**Global Settings:** `config/_default/`
+
+- **`hugo.yaml`** - Site title, base URL, language settings
+- **`params.yaml`** - Site description, SEO, logo text, theme colors, navbar settings
+- **`menus.yaml`** - Navigation menu items (add/remove/reorder menu links)
+- **`languages.yaml`** - Multi-language support (if needed)
+- **`module.yaml`** - Hugo modules and theme settings
+
+**Common edits:**
+- Site title: `config/_default/hugo.yaml` → `title`
+- Site description: `config/_default/params.yaml` → `marketing.seo.description`
+- Logo text: `config/_default/params.yaml` → `header.navbar.logo.text`
+- Theme color: `config/_default/params.yaml` → `appearance.color`
+
+---
+
+### 📊 Experience Page (Detailed View)
+
+**File:** `content/experience.md`
+
+This page pulls from your author profile (`content/authors/admin/_index.md`) but displays it in a dedicated page format. Edit settings here to:
+- Reorder education/experience sections
+- Show/hide skill percentages
+- Customize date formats
+
+---
+
+### 🎨 Images & Media
+
+**Locations:**
+- **Profile avatar:** `content/authors/admin/avatar.png`
+- **Project/publication images:** Add `featured.jpg` or `featured.png` to each project/publication folder
+- **Other media:** `assets/media/` or `static/img/`
+
+---
+
+### 🚀 Building & Deploying
+
+**Local Development:**
+```bash
+# Install dependencies
+pnpm install
+
+# Run local server
+hugo server
+
+# View at http://localhost:1313
+```
+
+**Building for Production:**
+```bash
+hugo
+# Output in public/ folder
+```
+
+**Deployment:**
+- Push to GitHub
+- Deploy via Netlify, GitHub Pages, or your preferred hosting service
+
+---
+
+### 📝 TODO Notes
+
+Look for `<!-- TODO: ... -->` comments in content files for placeholders to fill in later.
+
+---
+
+### 🆘 Need Help?
+
+- **Hugo Blox Documentation:** https://docs.hugoblox.com/
+- **Community Discord:** https://discord.gg/z8wNYzb
+- **Hugo Documentation:** https://gohugo.io/documentation/
 
 ---
 
 MIT © 2016-Present [George Cushen](https://georgecushen.com)
 
 <!--START_SECTION:news-->
-<!--Updated at 2025-10-26T01:58:34.817Z-->
 <!--END_SECTION:news-->

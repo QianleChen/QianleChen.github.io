@@ -1,4 +1,5 @@
 ---
+<!-- TODO: Replace this placeholder with your actual talk/event. Edit title, event, location, date, summary, and links -->
 title: Example Talk
 
 event: Hugo Blox Builder Conference
