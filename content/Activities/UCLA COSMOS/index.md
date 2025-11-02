@@ -2,24 +2,16 @@
 title: UCLA COSMOS 2024 Summer Program
 summary: My experience at the UCLA COSMOS program exploring science and research
 date: 2024-07-15
-
-# Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-image:
-  caption: 'UCLA COSMOS Program'
-
 authors:
   - admin
-
 tags:
   - COSMOS
   - UCLA
   - Summer Program
   - Research
   - Science
-
-content_meta:
-  trending: true
+image:
+  caption: 'UCLA COSMOS Program'
 ---
 
 During the summer, I had the incredible opportunity to participate in the UCLA COSMOS program, where I engaged in hands-on scientific research and collaborated with fellow students passionate about STEM.

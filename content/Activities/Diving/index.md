@@ -2,24 +2,16 @@
 title: 🔬 UCLA Joint Science Researcher
 summary: Conducting cutting-edge research at UCLA, contributing to scientific advancement and innovation
 date: 2024-06-01
-
-# Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-image:
-  caption: 'UCLA Joint Science Research Program'
-
 authors:
   - admin
-
 tags:
   - Research
   - UCLA
   - Science
   - Laboratory
   - Academic Research
-
-content_meta:
-  trending: true
+image:
+  caption: 'UCLA Joint Science Research Program'
 ---
 
 As a UCLA Joint Science Researcher, I have had the privilege of participating in advanced scientific research, working alongside faculty and graduate students to explore complex scientific questions and contribute to ongoing research projects.
