@@ -53,16 +53,62 @@ sections:
     design:
       view: article-grid
       columns: 2
-  - block: collection
+  # - block: collection
+  #   content:
+  #     title: Research
+  #     text: ''
+  #     filters:
+  #       folders:
+  #         - publications
+  #       exclude_featured: false
+  #   design:
+  #     view: citation
+  - block: markdown
     content:
-      title: Research
+      title: 'Research Experience'
+      subtitle: ''
+      text: |-
+        My research focuses on applying remote sensing, data science, and GIS to environmental challenges. I work with thermal satellite imagery, AI-based models, and field research to understand and address critical issues in climate science and sustainability.
+    design:
+      columns: '1'
+      css_class: 'hbx-bg-gradient'
+  - block: collection
+    id: research
+    content:
+      title: ''
+      subtitle: ''
       text: ''
       filters:
         folders:
           - Research
-        exclude_featured: false
+      count: 0
+      order: desc
     design:
-      view: citation
+      view: card
+      columns: 2
+  - block: markdown
+    content:
+      title: 'Activities'
+      subtitle: ''
+      text: |-
+        Beyond research, I'm actively involved in leadership roles and enrichment programs that have shaped my skills in communication, collaboration, and community engagement. These experiences complement my academic pursuits and reinforce my commitment to making a positive impact.
+    design:
+      columns: '1'
+      css_class: 'hbx-bg-gradient'
+  - block: collection
+    id: activities
+    content:
+      title: ''
+      subtitle: ''
+      text: ''
+      filters:
+        folders:
+          - Activities
+      count: 0
+      order: desc
+    design:
+      view: card
+      columns: 2
   - block: collection
     id: talks
     content:
@@ -72,33 +118,4 @@ sections:
           - events
     design:
       view: card
-  - block: collection
-    id: news
-    content:
-      title: Activities
-      subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
-      page_type: blog
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        author: ''
-        category: ''
-        tag: ''
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ''
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: card
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
 ---
