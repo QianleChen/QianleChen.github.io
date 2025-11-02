@@ -1,94 +1,88 @@
 ---
-title: ✅ Manage your projects
-summary: Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
-date: 2023-10-23
+title: 🎺 Wind Ensemble & Harmony Sounds Outreach
+summary: Founder and President of Harmony Sounds Outreach, 1st Chair Tuba in Wind Ensemble, and Low Brass Section Leader
+date: 2024-06-15
 authors:
   - admin
 tags:
-  - Hugo Blox
-  - Markdown
+  - Music
+  - Wind Ensemble
+  - Community Service
+  - Leadership
+  - Tuba
+  - Euphonium
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: 'Wind Ensemble Performance'
 ---
 
-Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
+Throughout my four years of high school, music has been an integral part of my life, serving as both a creative outlet and a platform for community service. I've dedicated approximately 7 hours per week, 40 weeks per year to various musical pursuits and leadership roles.
 
-## Ideation
+## Harmony Sounds Outreach
 
-Hugo Blox supports a Markdown extension for mindmaps.
+### Founder and President
 
-Simply insert a Markdown code block labelled as `markmap` and optionally set the height of the mindmap as shown in the example below.
+I founded **Harmony Sounds Outreach**, a student-led initiative dedicated to bringing the joy of music to elderly community members. As Founder and President, I:
 
-Mindmaps can be created by simply writing the items as a Markdown list within the `markmap` code block, indenting each item to create as many sub-levels as you need:
+- Established and led the organization from the ground up
+- Organized regular performances at senior centers and retirement communities
+- Successfully raised over **$1,000** to support our outreach activities
+- Coordinated with local venues and community partners
+- Built a team of dedicated student musicians committed to service
 
-<div class="highlight">
-<pre class="chroma">
-<code>
-```markmap {height="200px"}
-- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal
-```
-</code>
-</pre>
-</div>
+The experience of connecting with elderly audiences through music has been incredibly rewarding, teaching me about leadership, community engagement, and the universal power of music to bridge generational gaps.
 
-renders as
+## Performance Ensembles
 
-```markmap {height="200px"}
-- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal
-```
+### All-State Band
 
-## Diagrams
+Selected for the prestigious **California All-State Band**, representing the top student musicians across the state. This honor recognized my dedication to musical excellence and provided opportunities to perform with the finest young musicians in California.
 
-Hugo Blox supports the _Mermaid_ Markdown extension for diagrams.
+### Tustin Unified School District Honor Band
 
-An example **Gantt diagram**:
+As a member of the **Tustin Unified School District Honor Band**, I performed in elite ensembles showcasing the district's most accomplished musicians. This experience enhanced my technical skills and collaborative abilities.
 
-    ```mermaid
-    gantt
-    section Section
-    Completed :done,    des1, 2014-01-06,2014-01-08
-    Active        :active,  des2, 2014-01-07, 3d
-    Parallel 1   :         des3, after des1, 1d
-    Parallel 2   :         des4, after des1, 1d
-    Parallel 3   :         des5, after des3, 1d
-    Parallel 4   :         des6, after des4, 1d
-    ```
+### Wind Ensemble - 1st Chair Tuba
 
-renders as
+Earned and maintained the position of **1st Chair Tuba** in my school's top Wind Ensemble throughout my high school career. This leadership role involved:
 
-```mermaid
-gantt
-section Section
-Completed :done,    des1, 2014-01-06,2014-01-08
-Active        :active,  des2, 2014-01-07, 3d
-Parallel 1   :         des3, after des1, 1d
-Parallel 2   :         des4, after des1, 1d
-Parallel 3   :         des5, after des3, 1d
-Parallel 4   :         des6, after des4, 1d
-```
+- Performing challenging repertoire at the highest level
+- Setting the standard for the tuba section
+- Mentoring other brass players
+- Contributing to ensemble balance and interpretation
 
-## Todo lists
+### Low Brass Section Leader
 
-You can even write your todo lists in Markdown too:
+As **Low Brass Section Leader**, I took on additional responsibilities beyond my chair position:
 
-```markdown
-- [x] Write math example
-  - [x] Write diagram example
-- [ ] Do something else
-```
+- Led sectional rehearsals for tubas, euphoniums, and trombones
+- Provided technical guidance and musical direction
+- Fostered team cohesion and collaborative spirit
+- Served as liaison between section members and conductors
 
-renders as
+## Musical Achievement
 
-- [x] Write math example
-  - [x] Write diagram example
-- [ ] Do something else
+### MTAC Level 10 - Euphonium
 
-## Did you find this page helpful? Consider sharing it 🙌
+Achieved **Music Teachers' Association of California (MTAC) Level 10 certification** on euphonium, the highest level in the MTAC Certificate of Merit program. This accomplishment demonstrates:
+
+- Advanced technical proficiency
+- Comprehensive music theory knowledge
+- Sight-reading excellence
+- Performance mastery across diverse repertoire
+
+## Impact and Growth
+
+My involvement in these musical activities over four years (grades 9-12) has shaped my character and skills in profound ways:
+
+- **Leadership**: Developed strong leadership abilities through founding Harmony Sounds Outreach and serving as section leader
+- **Dedication**: Maintained consistent commitment with year-round participation
+- **Community Service**: Created meaningful connections through music outreach to elderly populations
+- **Musical Excellence**: Achieved recognition at district and state levels
+- **Teamwork**: Collaborated with diverse groups of musicians in various ensemble settings
+
+> [!NOTE]
+> These experiences have reinforced my belief in music's power to bring people together and create positive change in communities.
+
+## Looking Forward
+
+The skills I've developed through music—discipline, collaboration, leadership, and creative expression—continue to influence my approach to all areas of life. The connections made and lessons learned through these musical endeavors will undoubtedly guide my future pursuits, whether in music, community service, or beyond.

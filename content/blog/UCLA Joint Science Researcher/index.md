@@ -1,125 +1,92 @@
 ---
-title: 🧠 Sharpen your thinking with a second brain
-summary: Create a personal knowledge base and share your knowledge with your peers.
-date: 2023-10-26
+title: 🔬 UCLA Joint Science Researcher
+summary: Conducting cutting-edge research at UCLA, contributing to scientific advancement and innovation
+date: 2024-06-01
 authors:
   - admin
 tags:
-  - Second Brain
-  - Markdown
+  - Research
+  - UCLA
+  - Science
+  - Laboratory
+  - Academic Research
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: 'UCLA Joint Science Research Program'
 ---
 
-Create a personal knowledge base and share your knowledge with your peers.
+As a UCLA Joint Science Researcher, I have had the privilege of participating in advanced scientific research, working alongside faculty and graduate students to explore complex scientific questions and contribute to ongoing research projects.
 
-Hugo Blox web framework empowers you with one of the most flexible note-taking capabilities out there.
+## Research Experience
 
-Create a powerful knowledge base that works on top of a local folder of plain text Markdown files.
+My role as a joint science researcher at UCLA has provided me with hands-on experience in laboratory techniques, data analysis, and scientific methodology. This opportunity has deepened my understanding of the research process and strengthened my commitment to pursuing scientific inquiry.
 
-Use it as your second brain, either publicly sharing your knowledge with your peers via your website, or via a private GitHub repository and password-protected site just for yourself.
+## Research Highlights
 
-## Mindmaps
+Throughout this research experience, I have:
 
-Hugo Blox supports a Markdown extension for mindmaps.
+- Collaborated with UCLA faculty and research teams
+- Conducted experiments and collected data using advanced laboratory equipment
+- Analyzed research findings and contributed to project outcomes
+- Developed critical thinking and problem-solving skills in a research environment
+- Gained exposure to cutting-edge scientific methodologies and technologies
 
-With this open format, can even edit your mindmaps in other popular tools such as Obsidian.
+## Photo Gallery
 
-Simply insert a Markdown code block labelled as `markmap` and optionally set the height of the mindmap as shown in the example below.
+Here are some memorable moments from my research experience at UCLA:
 
-Mindmaps can be created by simply writing the items as a Markdown list within the `markmap` code block, indenting each item to create as many sub-levels as you need:
+<figure style="margin: 2rem 0;">
+  <img src="IMG_0129.jpeg" alt="UCLA Research Laboratory" style="width: 100%; max-width: 800px; display: block; margin: 0 auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <figcaption style="text-align: center; margin-top: 1rem; font-style: italic; color: #666;">Working in the state-of-the-art research laboratory at UCLA</figcaption>
+</figure>
 
-<div class="highlight">
-<pre class="chroma">
-<code>
-```markmap {height="200px"}
-- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal
-```
-</code>
-</pre>
-</div>
+<figure style="margin: 2rem 0;">
+  <img src="IMG_0133.jpeg" alt="Laboratory Equipment" style="width: 100%; max-width: 800px; display: block; margin: 0 auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <figcaption style="text-align: center; margin-top: 1rem; font-style: italic; color: #666;">Utilizing advanced scientific instruments for data collection and analysis</figcaption>
+</figure>
 
-renders as
+<figure style="margin: 2rem 0;">
+  <img src="IMG_0144.jpeg" alt="Research Team Collaboration" style="width: 100%; max-width: 800px; display: block; margin: 0 auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <figcaption style="text-align: center; margin-top: 1rem; font-style: italic; color: #666;">Collaborating with research mentors and team members on experimental procedures</figcaption>
+</figure>
 
-```markmap {height="200px"}
-- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal
-```
+<figure style="margin: 2rem 0;">
+  <img src="IMG_4991.jpeg" alt="Research Presentation" style="width: 100%; max-width: 800px; display: block; margin: 0 auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <figcaption style="text-align: center; margin-top: 1rem; font-style: italic; color: #666;">Presenting research findings and discussing methodologies with faculty advisors</figcaption>
+</figure>
 
-Anh here's a more advanced mindmap with formatting, code blocks, and math:
+<figure style="margin: 2rem 0;">
+  <img src="IMG_8106.jpeg" alt="Experimental Setup" style="width: 100%; max-width: 800px; display: block; margin: 0 auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <figcaption style="text-align: center; margin-top: 1rem; font-style: italic; color: #666;">Setting up experimental apparatus for controlled scientific investigations</figcaption>
+</figure>
 
-<div class="highlight">
-<pre class="chroma">
-<code>
-```markmap
-- Mindmaps
-  - Links
-    - [Hugo Blox Docs](https://docs.hugoblox.com/)
-    - [Discord Community](https://discord.gg/z8wNYzb)
-    - [GitHub](https://github.com/HugoBlox/hugo-blox-builder)
-  - Features
-    - Markdown formatting
-    - **inline** ~~text~~ *styles*
-    - multiline
-      text
-    - `inline code`
-    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
-```
-</code>
-</pre>
-</div>
+<figure style="margin: 2rem 0;">
+  <img src="IMG_8116.jpeg" alt="Data Analysis" style="width: 100%; max-width: 800px; display: block; margin: 0 auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <figcaption style="text-align: center; margin-top: 1rem; font-style: italic; color: #666;">Analyzing experimental data and contributing to research conclusions</figcaption>
+</figure>
 
-renders as
+## Skills Developed
 
-```markmap
-- Mindmaps
-  - Links
-    - [Hugo Blox Docs](https://docs.hugoblox.com/)
-    - [Discord Community](https://discord.gg/z8wNYzb)
-    - [GitHub](https://github.com/HugoBlox/hugo-blox-builder)
-  - Features
-    - Markdown formatting
-    - **inline** ~~text~~ *styles*
-    - multiline
-      text
-    - `inline code`
-    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
-```
+This research experience has helped me develop essential skills for scientific inquiry:
 
-## Highlighting
+- **Technical Proficiency**: Mastery of laboratory equipment and experimental techniques
+- **Analytical Thinking**: Critical evaluation of data and research outcomes
+- **Collaboration**: Working effectively within a diverse research team
+- **Scientific Communication**: Presenting findings and discussing research with peers and mentors
+- **Problem-Solving**: Addressing experimental challenges and adapting methodologies
 
-<mark>Highlight</mark> important text with `mark`:
+## Impact and Learning
 
-```html
-<mark>Highlighted text</mark>
-```
+Participating as a UCLA Joint Science Researcher has been transformative for my academic and professional development. The experience has:
 
-## Callouts
-
-Use [callouts](https://docs.hugoblox.com/reference/markdown/#callouts) (aka _asides_, _hints_, or _alerts_) to draw attention to notes, tips, and warnings.
-
-Use the `> [!NOTE]` syntax to create a callout.
-
-```markdown
-> [!NOTE]
-> A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-```
-
-renders as
+- Reinforced my passion for scientific research
+- Provided practical application of theoretical knowledge
+- Connected me with mentors and researchers in the field
+- Enhanced my understanding of the scientific method and research ethics
+- Prepared me for future academic pursuits in STEM
 
 > [!NOTE]
-> A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
+> This research experience at UCLA has been instrumental in shaping my academic interests and career aspirations in scientific research.
 
-Or use the `warning` callout type so your readers don't miss critical details:
+## Looking Forward
 
-> [!WARNING]
-> A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-
-## Did you find this page helpful? Consider sharing it 🙌
+The skills, knowledge, and connections I've gained through this research opportunity continue to influence my academic trajectory. This experience has solidified my commitment to pursuing advanced scientific research and contributing to the broader scientific community.
