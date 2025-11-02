@@ -54,15 +54,20 @@ sections:
       view: article-grid
       columns: 2
   - block: collection
+    id: research
     content:
       title: Research
+      subtitle: ''
       text: ''
       filters:
         folders:
           - Research
         exclude_featured: false
+      count: 0
+      order: desc
     design:
-      view: citation
+      view: card
+      columns: 2
   - block: collection
     id: talks
     content:
@@ -73,32 +78,18 @@ sections:
     design:
       view: card
   - block: collection
-    id: news
+    id: activities
     content:
       title: Activities
       subtitle: ''
       text: ''
-      # Page type to display. E.g. post, talk, publication...
-      page_type: blog
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
       filters:
-        author: ''
-        category: ''
-        tag: ''
+        folders:
+          - Activities
         exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ''
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
+      count: 0
       order: desc
     design:
-      # Choose a layout view
       view: card
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
+      columns: 2
 ---
