@@ -32,7 +32,7 @@ The UCLA COSMOS program provided an immersive experience in scientific research 
 
 Here are some memorable moments from my time at UCLA COSMOS:
 
-### Method 1: Simple Image Grid (Markdown)
+<!-- ### Method 1: Simple Image Grid (Markdown)
 
 ![COSMOS Experience](IMG_0308.jpeg "Campus activities and learning")
 
@@ -63,7 +63,7 @@ Here are some memorable moments from my time at UCLA COSMOS:
   </div>
 </div>
 
-### Method 3: Single Column with Captions
+### Method 3: Single Column with Captions -->
 
 <figure style="margin: 2rem 0;">
   <img src="IMG_0308.jpeg" alt="UCLA COSMOS Campus" style="width: 100%; max-width: 800px; display: block; margin: 0 auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
@@ -72,17 +72,17 @@ Here are some memorable moments from my time at UCLA COSMOS:
 
 <figure style="margin: 2rem 0;">
   <img src="IMG_0310.jpeg" alt="Research Activities" style="width: 100%; max-width: 800px; display: block; margin: 0 auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-  <figcaption style="text-align: center; margin-top: 1rem; font-style: italic; color: #666;">Engaging in hands-on research activities</figcaption>
+  <figcaption style="text-align: center; margin-top: 1rem; font-style: italic; color: #666;">Principle Investigator Professor Sach</figcaption>
 </figure>
 
 <figure style="margin: 2rem 0;">
-  <img src="IMG_0353.jpeg" alt="Laboratory Sessions" style="width: 100%; max-width: 800px; display: block; margin: 0 auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-  <figcaption style="text-align: center; margin-top: 1rem; font-style: italic; color: #666;">Working in the laboratory with cutting-edge equipment</figcaption>
+  <img src="IMG_03531.jpeg" alt="Laboratory Sessions" style="width: 100%; max-width: 800px; display: block; margin: 0 auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <figcaption style="text-align: center; margin-top: 1rem; font-style: italic; color: #666;">Principle Investigator Professor Fisher</figcaption>
 </figure>
 
 <figure style="margin: 2rem 0;">
   <img src="IMG_0361.jpeg" alt="COSMOS Community" style="width: 100%; max-width: 800px; display: block; margin: 0 auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-  <figcaption style="text-align: center; margin-top: 1rem; font-style: italic; color: #666;">Building connections with fellow COSMOS participants</figcaption>
+  <figcaption style="text-align: center; margin-top: 1rem; font-style: italic; color: #666;">Presented Poster at Conference</figcaption>
 </figure>
 
 ## Key Takeaways
