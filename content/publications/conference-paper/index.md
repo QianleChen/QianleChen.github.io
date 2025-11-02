@@ -82,36 +82,6 @@ projects:
 slides: ""
 ---
 
-<style>
-.zoom-container {
-  overflow: hidden;
-  cursor: zoom-in;
-  margin: 2rem auto;
-  max-width: 100%;
-  border-radius: 8px;
-  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-}
-
-.zoom-container img {
-  width: 100%;
-  height: auto;
-  display: block;
-  transition: transform 0.3s ease;
-}
-
-.zoom-container:hover img {
-  transform: scale(1.5);
-  cursor: zoom-in;
-}
-
-.zoom-caption {
-  text-align: center;
-  margin-top: 1rem;
-  font-style: italic;
-  color: #666;
-}
-</style>
-
 > [!NOTE]
 > Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 
