@@ -63,19 +63,19 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - events
-    design:
-      view: card
+  # - block: collection
+  #   id: talks
+  #   content:
+  #     title: Recent & Upcoming Talks
+  #     filters:
+  #       folders:
+  #         - events
+  #   design:
+  #     view: card
   - block: collection
     id: news
     content:
-      title: Recent News
+      title: Activities
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
