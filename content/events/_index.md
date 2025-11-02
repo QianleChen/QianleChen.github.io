@@ -1,4 +1,4 @@
----
+<!-- ---
 <!-- TODO: Add your actual talks and events here. See example event in subfolders for the format -->
 title: Recent & Upcoming Talks
 cms_exclude: true
@@ -11,4 +11,4 @@ view: card
 image:
   caption: ''
   filename: ''
----
+--- -->
