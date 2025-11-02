@@ -89,3 +89,10 @@ slides: ""
 > Create your slides in Markdown - click the _Slides_ button to check out the example.
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+
+## Research Image
+
+<figure style="margin: 2rem auto; max-width: 100%;">
+  <img src="ecostress.jpl.nasa.gov_.png" alt="ECOSTRESS Research" style="width: 100%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="text-align: center; margin-top: 1rem; font-style: italic; color: #666;">ECOSTRESS Research Visualization - NASA JPL</figcaption>
+</figure>
