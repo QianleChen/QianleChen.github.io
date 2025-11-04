@@ -39,9 +39,28 @@ varied by functional traits and site, suggesting that ECOSTRESS ET provides a sc
 non-invasive indicator of plant drought stress that complements field measurements and
 management decisions.
 
+---
+
+## Poster Presentation
+
+This research was **presented at the 2025 NASA ECOSTRESS Annual Science Team Meeting**.  
+Highlighting the integration of satellite-derived evapotranspiration data with field-measured
+leaf water potentials to assess drought stress at a global scale.  
+The poster summarizes cross-species analyses showing significant relationships between
+ECOSTRESS-derived evapotranspiration and plant water potential.
+
+<figure style="margin: 2rem 0;">
+  <img src="Poster.png" alt="Satellite Measurements of Evapotranspiration Predict Plant Water Stress Poster" style="width: 100%; max-width: 1000px; display: block; margin: 0 auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.15);">
+  <figcaption style="text-align: center; margin-top: 1rem; font-style: italic; color: #666;">
+    Poster presented at the NASA ECOSTRESS Annual Science Team Meeting — demonstrating ECOSTRESS evapotranspiration as a global-scale indicator of plant drought stress.
+  </figcaption>
+</figure>
+
+---
+
 ## Download
 
-[📄 Download Full Paper (PDF)](Qianle%20Chen%20Regeneron%20STS%20Research%20Report.pdf){download}
+[Download Full Paper (PDF)](Qianle%20Chen%20Regeneron%20STS%20Research%20Report.pdf){download}
 
-For more projects and publications, see my
-[publications page](https://qianlechen.github.io/publications/).
+For more projects and publications, visit my  
+[Publications Page](https://qianlechen.github.io/publications/).
