@@ -1,6 +1,6 @@
 ---
 <!-- TODO: Replace this placeholder with your actual publication. Edit title, authors, date, publication venue, abstract, and links -->
-title: "An example journal article"
+title: 'GIS - Airport Fire, Southern California'
 authors:
 - admin
 - Robert Ford

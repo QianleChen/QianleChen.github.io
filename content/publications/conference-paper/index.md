@@ -1,98 +1,47 @@
 ---
-<!-- TODO: Replace this placeholder with your actual publication. Edit title, authors, date, publication venue, abstract, and links -->
-title: 'An example conference paper'
+title: "Satellite Measurements of Evapotranspiration Predict Plant Water Stress"
+summary: "(In Preparation) Using NASA ECOSTRESS evapotranspiration to detect early plant drought stress across species and sites."
+date: 2025-10-01
 
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
+image:
+  caption: "ECOSTRESS evapotranspiration and plant drought stress"
+
 authors:
   - admin
-  - Robert Ford
-
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-
-date: '2013-07-01T00:00:00Z'
-
-# Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
-
-# Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
-
-# Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Large Language Models
+  - Environmental Informatics
+  - ECOSTRESS
+  - Remote Sensing
+  - Drought
+  - Regeneron STS
 
-# Display this page in the Featured widget?
-featured: true
+publication_types: ["manuscript"]
+publication: "In review at Regeneron Science Talent Search 2026"
 
-# Standard identifiers for auto-linking
-hugoblox:
-  ids:
-    doi: 10.5555/123456
-
-# Custom links
 links:
   - type: pdf
-    url: ""
-  - type: code
-    url: https://github.com/HugoBlox/hugo-blox-builder
-  - type: dataset
-    url: https://github.com/HugoBlox/hugo-blox-builder
-  - type: slides
-    url: https://www.slideshare.net/
+    url: "Qianle Chen Regeneron STS Research Report.pdf"
   - type: source
-    url: https://github.com/HugoBlox/hugo-blox-builder
-  - type: video
-    url: https://youtube.com
+    url: "https://qianlechen.github.io/publications/"
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
-  preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-  - example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: ""
+content_meta:
+  trending: true
 ---
 
-> [!NOTE]
-> Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+## Abstract
 
-> [!NOTE]
-> Create your slides in Markdown - click the _Slides_ button to check out the example.
+This project tests whether NASA ECOSTRESS evapotranspiration (ET) can track plant water
+status across species and sites. ECOSTRESS ET was paired with PSInet predawn and midday
+leaf water potentials within seven days. Lower ET aligned with more negative water potentials,
+with significant correlations for 9 of 26 species at midday and 7 of 28 at predawn. Effect sizes
+varied by functional traits and site, suggesting that ECOSTRESS ET provides a scalable,
+non-invasive indicator of plant drought stress that complements field measurements and
+management decisions.
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+## Download
 
-## Research Image
+[📄 Download Full Paper (PDF)](Qianle%20Chen%20Regeneron%20STS%20Research%20Report.pdf){download}
 
-<div class="zoom-container">
-  <img src="ecostress.jpl.nasa.gov_.png" alt="ECOSTRESS Research Visualization">
-</div>
-<p class="zoom-caption">ECOSTRESS Research Visualization - NASA JPL (Hover to zoom)</p>
+For more projects and publications, see my
+[publications page](https://qianlechen.github.io/publications/).

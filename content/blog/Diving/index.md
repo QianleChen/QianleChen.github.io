@@ -17,7 +17,7 @@ tags:
   - Red Cross
 
 content_meta:
-  trending: true
+  trending: false
 ---
 
 During high school I trained and served as a **PADI-Certified Rescue Diver** specialties in **AWARE Dive Against Debris**, participating in **year-round underwater marine clean-up dives** to protect local coastal ecosystems. On these dives, our group **removed more than 300 lbs of debris** — including fishing lines, nets, plastics, and dock materials — to reduce entanglement risks for marine life.

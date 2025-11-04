@@ -17,7 +17,7 @@ tags:
   - Cultural Awareness
 
 content_meta:
-  trending: true
+  trending: false
 ---
 
 As the **Founder and CEO of Lingua Harmonia**, I created a student-led linguistics organization dedicated to promoting **language diversity, cross-cultural communication, and equitable access to language learning**.  

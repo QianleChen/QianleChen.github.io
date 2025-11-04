@@ -19,7 +19,7 @@ tags:
   - Academic Research
 
 content_meta:
-  trending: true
+  trending: false
 ---
 
 As a UCLA Joint Science Researcher, I have had the privilege of participating in advanced scientific research, working alongside faculty and graduate students to explore complex scientific questions and contribute to ongoing research projects.

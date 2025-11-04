@@ -19,7 +19,7 @@ tags:
   - Science
 
 content_meta:
-  trending: true
+  trending: false
 ---
 
 During the summer, I had the incredible opportunity to participate in the UCLA COSMOS program, where I engaged in hands-on scientific research and collaborated with fellow students passionate about STEM.
