@@ -30,8 +30,10 @@ role: Research Assistant | Environmental Stewardship Advocate | High School Stud
 organizations:
   - name: UCLA Joint Institute for Regional Earth System Science and Engineering
     url: https://jifresse.ucla.edu/
+  - name: NASA Jet Propulsion Laboratory Ecostress Division, CalTech
+    url: https://ecostress.jpl.nasa.gov/
   - name: Arnold O. Beckman High School
-    url: https://aobhs-tustin.org/
+    url: https://beckman.tustin.k12.ca.us/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -40,7 +42,7 @@ profiles:
     url: 'mailto:qianlechen4324@gmail.com'
     label: E-mail Me
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/qianle-chen/
+    url: https://www.linkedin.com/in/qianlechen/
   - icon: hero/globe-alt
     url: https://HarmonyWithNature.org
     label: Harmony with Nature
