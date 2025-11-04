@@ -64,7 +64,8 @@ sections:
   #   design:
   #     view: citation
   - block: collection
-    id: talks
+    # id: talks
+    id: research
     content:
       title: Research Experience
       filters:
@@ -73,7 +74,8 @@ sections:
     design:
       view: card
   - block: collection
-    id: news
+    # id: news
+    id: activities
     content:
       title: Activities
       subtitle: ''

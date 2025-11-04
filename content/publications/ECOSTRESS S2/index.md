@@ -1,82 +1,113 @@
 ---
-<!-- TODO: Replace this placeholder with your actual preprint. Edit title, authors, date, abstract, and links -->
-title: 'GIS - Serabigoes Northern Portugal'
+title: 'GIS – Serabigões Wildfire, Northern Portugal 2025'
+
 authors:
-- admin
-date: "2019-04-07T00:00:00Z"
+  - admin
+  - Dr. Joshua R. Fisher
 
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+author_notes:
+  - 'Visualization Contributor'
+  - 'Mission Science Lead'
 
-# Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
-publication_types: ["article"]
+date: '2025-07-29T00:00:00Z'
+publishDate: '2025-08-06T00:00:00Z'
 
-# Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication_types: ['report']
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+publication: 'Published in NASA / JPL ECOSTRESS Gallery'
+publication_short: 'NASA ECOSTRESS Gallery Feature'
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+abstract: >
+  On July 29, 2025, NASA’s ECOSTRESS instrument captured high-resolution thermal imagery of an active wildfire front near Serabigões in northern Portugal. The data displayed intense land surface temperature gradients, revealing active fire zones exceeding 96°C (206°F) during the heat peak of the day. This visualization has been published on NASA’s ECOSTRESS Gallery.
+
+summary: >
+  ECOSTRESS thermal map of the Serabigões wildfire, northern Portugal, recorded on July 29, 2025 — published in NASA’s ECOSTRESS Gallery.
 
 tags:
-- Large Language Models
+  - ECOSTRESS
+  - GIS
+  - Wildfire
+  - Portugal
+  - Thermal Remote Sensing
+  - NASA
 
-featured: true
-
-hugoblox:
-  ids:
-    arxiv: 1512.04133v1
+featured: false
 
 links:
-- type: preprint
-  provider: arxiv
-  id: 1512.04133v1
-- type: code
-  url: https://github.com/HugoBlox/hugo-blox-builder
-- type: slides
-  url: https://www.slideshare.net/
-- type: dataset
-  url: "#"
-- type: poster
-  url: "#"
-- type: source
-  url: "#"
-- type: video
-  url: https://youtube.com
-- type: custom
-  label: Custom Link
-  url: http://example.org
+  - type: source
+    url: https://ecostress.jpl.nasa.gov/gallery
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
-  focal_point: ""
+  caption: 'Serabigões Fire Heat Map – Portugal, July 29, 2025 (NASA / JPL-Caltech / ECOSTRESS)'
+  focal_point: ''
   preview_only: false
 
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- internal-project
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
+projects: []
 slides: ""
 ---
 
-This work is driven by the results in my [previous paper](/publications/conference-paper/) on LLMs.
+## Serabigões Wildfire – July 29, 2025
 
-> [!NOTE]
-> Create your slides in Markdown - click the *Slides* button to check out the example.
+NASA’s **ECOSTRESS (ECOsystem Spaceborne Thermal Radiometer Experiment on Space Station)** recorded high-resolution thermal data of the **Serabigões fire front** in northern Portugal.  
+The thermal map captured **land surface temperatures from 26.7°C (80°F) to 96.7°C (206°F)**, identifying multiple active burn zones during a critical afternoon period under extreme heat and dry conditions.
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+This segment of the **Severe Fire Complex** affected rural areas around Serabigões and surrounding hills, continuing through late July. The dataset supports **fire behavior analysis, damage assessment, and emergency response coordination**.
+
+The visualization was created in collaboration with **Dr. Joshua R. Fisher (Chapman University)** and **Bill Chen (Arnold O. Beckman High School)** and has been **published in the NASA ECOSTRESS Gallery**.
+
+---
+
+## Research Image
+
+<style>
+.full-width-image-container {
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  max-width: 100vw;
+}
+
+.full-width-image-container img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.full-width-caption {
+  text-align: center;
+  margin-top: 1rem;
+  font-style: italic;
+  color: #666;
+  padding: 0 2rem;
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+<div class="full-width-image-container">
+  <img src="Serabigoes Northern Portugal.png" alt="ECOSTRESS Serabigões Portugal Wildfire Heat Map, July 29, 2025">
+  <p class="full-width-caption">
+    ECOSTRESS thermal imagery showing active fire zones near Serabigões, northern Portugal, on July 29, 2025. Published in NASA ECOSTRESS Gallery. Image credit: NASA / JPL-Caltech / ECOSTRESS.
+  </p>
+</div>
+
+---
+
+## Credits
+
+Created in collaboration with:
+- **Bill Chen (Arnold O. Beckman High School)**
+- **Dr. Joshua R. Fisher (Chapman University)**
+
+---
+
+## Related Links
+
+- 🌍 [NASA ECOSTRESS Gallery](https://ecostress.jpl.nasa.gov/gallery)  
+- 🛰️ [ECOSTRESS Mission Overview](https://ecostress.jpl.nasa.gov)

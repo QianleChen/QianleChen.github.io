@@ -1,7 +1,7 @@
 ---
 title: PADI Marine Debris Clean-Up & Rescue Diving
 summary: Year-round underwater clean-up dives, 300+ lbs debris removed, plus American Red Cross First Aid/CPR/Lifeguard certifications.
-date: 2025-11-02
+date: 2023-11-02
 
 image:
   caption: 'Underwater clean-up dive – PADI Rescue Diver'

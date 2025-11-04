@@ -1,83 +1,113 @@
 ---
-<!-- TODO: Replace this placeholder with your actual publication. Edit title, authors, date, publication venue, abstract, and links -->
-title: 'GIS - Portugal Region'
+title: 'GIS – Portugal Wildfires 2025'
+
 authors:
-- admin
-- Robert Ford
+  - admin
+  - Dr. Joshua R. Fisher
+
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+  - 'Visualization Contributor'
+  - 'Mission Science Lead'
 
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+date: '2025-07-29T00:00:00Z'
+publishDate: '2025-08-05T00:00:00Z'
 
-# Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+publication_types: ['report']
 
-# Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: 'Published in NASA / JPL ECOSTRESS Gallery'
+publication_short: 'NASA ECOSTRESS Gallery Feature'
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: >
+  On July 29, 2025, NASA’s ECOSTRESS mission captured high-resolution thermal imagery of multiple wildfires in northern Portugal. The data revealed extreme heat signatures exceeding 240°F across fire fronts near Bemposta, Ermida, and Marmotos. This visualization was created in collaboration with Dr. Joshua R. Fisher and published on NASA’s ECOSTRESS Gallery.
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: >
+  ECOSTRESS thermal map showing wildfire fronts across northern Portugal, July 29, 2025 — published on NASA’s ECOSTRESS Gallery.
 
 tags:
-- Source Themes
+  - ECOSTRESS
+  - GIS
+  - Wildfire
+  - Portugal
+  - Thermal Remote Sensing
+  - NASA
+
 featured: false
 
-hugoblox:
-  ids:
-    arxiv: 1512.04133v1
 
 links:
-  - type: pdf
-    url: http://arxiv.org/pdf/1512.04133v1
-  - type: code
-    url: https://github.com/HugoBlox/hugo-blox-builder
-  - type: dataset
-    url: ""
-  - type: poster
-    url: ""
-  - type: project
-    url: ""
-  - type: slides
-    url: https://www.slideshare.net/
   - type: source
-    url: ""
-  - type: video
-    url: ""
+    url: https://ecostress.jpl.nasa.gov/gallery
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
+  caption: 'Land Surface Temperature Map – Portugal Wildfires, July 29, 2025 (NASA / JPL-Caltech / ECOSTRESS)'
+  focal_point: ''
   preview_only: false
 
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
 projects: []
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
 slides: ""
 ---
 
-> [!NOTE]
-> Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+## Portugal Wildfires – July 29, 2025
 
-> [!NOTE]
-> Create your slides in Markdown - click the *Slides* button to check out the example.
+NASA’s **ECOSTRESS (ECOsystem Spaceborne Thermal Radiometer Experiment on Space Station)** recorded thermal anomalies during the 2025 Portugal wildfires.  
+The dataset shows **land surface temperatures exceeding 111°C (242°F)** across multiple fronts in the northern region. These measurements provided key insights into **fire intensity, spread, and local impacts**, supporting environmental monitoring and emergency response.
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+This visualization was produced in collaboration with **Dr. Joshua Fisher (Chapman University)**, and has been **published in the NASA ECOSTRESS Gallery** for public access.
+
+---
+
+
+## Research Image
+
+<style>
+.full-width-image-container {
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  max-width: 100vw;
+}
+
+.full-width-image-container img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.full-width-caption {
+  text-align: center;
+  margin-top: 1rem;
+  font-style: italic;
+  color: #666;
+  padding: 0 2rem;
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+<div class="full-width-image-container">
+  <img src="GIS Portugal Widfires.png" alt="ECOSTRESS Portugal Wildfires Thermal Map, July 29, 2025">
+  <p class="full-width-caption">
+    ECOSTRESS thermal imagery showing multiple active fire zones in Portugal on July 29, 2025. Visualization published on NASA ECOSTRESS Gallery. Image credit: NASA / JPL-Caltech / ECOSTRESS.
+  </p>
+</div>
+
+---
+
+## Credits
+
+Created in collaboration with:
+- **Bill Chen (Arnold O. Beckman High School)**
+- **Dr. Joshua R. Fisher (Chapman University)**
+
+---
+
+## Related Links
+
+- 🌍 [NASA ECOSTRESS Gallery](https://ecostress.jpl.nasa.gov/gallery)  
+- 🛰️ [ECOSTRESS Mission Overview](https://ecostress.jpl.nasa.gov)

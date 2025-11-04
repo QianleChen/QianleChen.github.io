@@ -32,9 +32,6 @@ tags:
 
 featured: true
 
-hugoblox:
-  ids:
-    doi: 10.0000/ecostress.2025.sf-wildfire
 
 links:
   - type: source

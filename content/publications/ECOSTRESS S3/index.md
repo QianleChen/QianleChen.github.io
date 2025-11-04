@@ -1,83 +1,113 @@
 ---
-<!-- TODO: Replace this placeholder with your actual publication. Edit title, authors, date, publication venue, abstract, and links -->
-title: 'GIS - Silverado Fire, Southern California'
+title: 'GIS – Silverado Fire, Southern California 2020'
+
 authors:
-- admin
-- Robert Ford
+  - admin
+  - Dr. Joshua R. Fisher
+
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+  - 'Visualization Contributor'
+  - 'Mission Science Lead'
 
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+date: '2020-10-29T00:00:00Z'
+publishDate: '2020-11-03T00:00:00Z'
 
-# Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+publication_types: ['report']
 
-# Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: 'Published in NASA / JPL ECOSTRESS Gallery'
+publication_short: 'NASA ECOSTRESS Gallery Feature'
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: >
+  On October 29, 2020, NASA’s ECOSTRESS instrument captured high-resolution thermal imagery of the Silverado Fire burning in Orange County, California. The thermal data revealed temperature contrasts between cool, unaffected areas and active fire cores reaching 176°F (80°C). The visualization highlights the role of ECOSTRESS in wildfire monitoring and was published in NASA’s ECOSTRESS Gallery.
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: >
+  ECOSTRESS thermal map of the Silverado Fire in Southern California, recorded on October 29, 2020 — published in NASA’s ECOSTRESS Gallery.
 
 tags:
-- Source Themes
+  - ECOSTRESS
+  - GIS
+  - Wildfire
+  - California
+  - Thermal Remote Sensing
+  - NASA
+
 featured: false
 
-hugoblox:
-  ids:
-    arxiv: 1512.04133v1
-
 links:
-  - type: pdf
-    url: http://arxiv.org/pdf/1512.04133v1
-  - type: code
-    url: https://github.com/HugoBlox/hugo-blox-builder
-  - type: dataset
-    url: ""
-  - type: poster
-    url: ""
-  - type: project
-    url: ""
-  - type: slides
-    url: https://www.slideshare.net/
   - type: source
-    url: ""
-  - type: video
-    url: ""
+    url: https://ecostress.jpl.nasa.gov/gallery
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
+  caption: 'Land Surface Temperature Map – Silverado Fire, October 29, 2020 (NASA / JPL-Caltech / ECOSTRESS)'
+  focal_point: ''
   preview_only: false
 
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
 projects: []
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
 slides: ""
 ---
 
-> [!NOTE]
-> Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+## Silverado Fire – October 29, 2020
 
-> [!NOTE]
-> Create your slides in Markdown - click the *Slides* button to check out the example.
+NASA’s **ECOSTRESS (ECOsystem Spaceborne Thermal Radiometer Experiment on Space Station)** captured high-resolution land surface temperature data of the **Silverado Fire** across Orange County, California.  
+At 6:21 PM PST, ECOSTRESS recorded temperatures ranging from **68°F (20°C)** in unaffected terrain to **176°F (80°C)** in the most intense fire zones, revealing multiple high-temperature cores and the fire’s spread through canyon foothills under **Santa Ana wind conditions**.
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+The **Silverado Fire** began on October 26, 2020, and was fully contained by November 7 after burning more than **12,466 acres (5,046 ha)**. ECOSTRESS imagery provided valuable insight for emergency coordination and scientific analysis of **fire behavior, drought stress, and post-fire recovery**.
+
+The visualization was created by **Bill Chen (Arnold O. Beckman High School)** in collaboration with **Dr. Joshua R. Fisher (Chapman University)** and has been **published in NASA’s ECOSTRESS Gallery**.
+
+---
+
+## Research Image
+
+<style>
+.full-width-image-container {
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  max-width: 100vw;
+}
+
+.full-width-image-container img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.full-width-caption {
+  text-align: center;
+  margin-top: 1rem;
+  font-style: italic;
+  color: #666;
+  padding: 0 2rem;
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+<div class="full-width-image-container">
+  <img src="Silverado Fire, Southern California.png" alt="ECOSTRESS Silverado Fire Thermal Map, Orange County, October 29, 2020">
+  <p class="full-width-caption">
+    ECOSTRESS thermal map of the Silverado Fire in Orange County, California, on October 29, 2020. Published in NASA ECOSTRESS Gallery. Image credit: NASA / JPL-Caltech / ECOSTRESS.
+  </p>
+</div>
+
+---
+
+## Credits
+
+Created in collaboration with:
+- **Bill Chen (Arnold O. Beckman High School)**
+- **Dr. Joshua R. Fisher (Chapman University)**
+
+---
+
+## Related Links
+
+- 🌍 [NASA ECOSTRESS Gallery](https://ecostress.jpl.nasa.gov/gallery)  
+- 🛰️ [ECOSTRESS Mission Overview](https://ecostress.jpl.nasa.gov)
