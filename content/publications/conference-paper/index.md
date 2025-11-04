@@ -1,6 +1,6 @@
 ---
 title: "Satellite Measurements of Evapotranspiration Predict Plant Water Stress"
-summary: "(In Preparation) Using NASA ECOSTRESS evapotranspiration to detect early plant drought stress across species and sites."
+summary: "(In Review) Using NASA ECOSTRESS evapotranspiration to detect early plant drought stress across species and sites."
 date: 2025-10-01
 
 image:
