@@ -27,7 +27,7 @@ I'm a high school senior and aspiring environmental scientist conducting researc
 
 - 🔥 **Wildfire & Climate Research** - Analyzing thermal satellite imagery to study wildfire progression and urban heat patterns (featured in NASA's Caltech JPL ECOSTRESS gallery)
 - 🤖 **AI for Emergency Response** - Coordinating a $1M research project with Orange County Fire Department to develop AI-based decision-support models
-- 🌱 **Environmental Stewardship** - Founder & President of Harmony with Nature, a 501(c)(3) nonprofit engaging 300+ participants in sustainability education
+- 🌱 **Environmental Stewardship** - Founder & President of Harmony with Nature, a 501(c)(3) nonprofit engaging 300+ participants in sustainability education and conservation
 - 📊 **IoT & Data Science** - Developed an air quality monitoring system with Python analytics and mobile app deployment
 
 I'm passionate about applying remote sensing, GIS, and data science to address environmental challenges while bridging research and community action.
@@ -65,29 +65,11 @@ I'm passionate about applying remote sensing, GIS, and data science to address e
 
 ---
 
-## 🚀 Getting Started with This Site
+## 🌐 Website
 
-This academic CV website is built with [Hugo Blox Builder](https://hugoblox.com/) and showcases my research, projects, and experiences in environmental science and sustainability.
+Visit my academic portfolio at: **[qianlechen.github.io](https://qianlechen.github.io/)**
 
-### Run Locally
-
-```bash
-# Install dependencies
-pnpm install
-
-# Start development server
-hugo server
-
-# Visit http://localhost:1313
-```
-
-### Deploy
-
-This site can be deployed to:
-- **GitHub Pages** (recommended)
-- **Netlify**
-- **Vercel**
-- Any static hosting service
+This site showcases my research, publications, projects, and experiences in environmental science and sustainability.
 
 ---
 
@@ -152,7 +134,11 @@ This file controls all homepage sections/widgets:
   - Add `cite.bib` for BibTeX citation
   - Add PDF files directly to the folder
 
-**Example:** See `content/publications/conference-paper/` for the format.
+**Current Publications:**
+- ECOSTRESS wildfire thermal imagery (Featured on NASA homepage)
+- Regeneron Science Talent Search research paper
+- The Little Tree That Could children's book
+- Multiple ECOSTRESS wildfire analysis case studies
 
 ---
 
@@ -167,9 +153,9 @@ This file controls all homepage sections/widgets:
   - Write detailed project descriptions in markdown below the frontmatter
 
 **Current Projects:**
-- `pandas/` → Air Quality Sensor Development Project
-- `pytorch/` → Harmony with Nature Non-Profit
-- `scikit/` → The Little Tree That Could
+- `AtmoFlow/` → Air Quality Sensor Development & Mobile App
+- `501c3/` → Harmony with Nature Non-Profit 501(c)(3)
+- `TreeCould/` → The Little Tree That Could Children's Book
 
 ---
 
@@ -186,13 +172,33 @@ This file controls all homepage sections/widgets:
 
 ---
 
-### 📰 Blog Posts
+### 🔬 Research Experience
 
-**Location:** `content/blog/`
+**Location:** `content/Research/`
 
-- **Main Index:** `content/blog/_index.md`
-- **Individual Posts:** Each post has its own subfolder with `index.md`
-- Format is similar to projects/publications
+- **Main Index:** `content/Research/_index.md`
+- **Individual Research:** Each research experience has its own subfolder with `index.md`
+- Include photos, descriptions, and outcomes
+
+**Current Research:**
+- UCLA Joint Science Researcher
+- Language Research
+
+---
+
+### 🌟 Activities & Leadership
+
+**Location:** `content/Activities/`
+
+- **Main Index:** `content/Activities/_index.md`
+- **Individual Activities:** Each activity has its own subfolder with `index.md`
+- Include photos, achievements, and impact
+
+**Current Activities:**
+- UCLA COSMOS Summer Program
+- Yale Young Global Scholars
+- Wind Ensemble & Harmony Sounds Outreach
+- Diving
 
 ---
 
@@ -242,46 +248,51 @@ This page pulls from your author profile (`content/authors/admin/_index.md`) but
 
 ---
 
-### 🚀 Building & Deploying
+---
 
-**Local Development:**
-```bash
-# Install dependencies
-pnpm install
+## 📊 Site Structure
 
-# Run local server
-hugo server
+The website is organized into the following main sections:
 
-# View at http://localhost:1313
-```
-
-**Building for Production:**
-```bash
-hugo
-# Output in public/ folder
-```
-
-**Deployment:**
-- Push to GitHub
-- Deploy via Netlify, GitHub Pages, or your preferred hosting service
+- **Bio** - Personal introduction and background
+- **Publications** - Research papers, books, and featured work
+- **Research & Activities** - Separate sections for research experiences and leadership activities
+- **Experience** - Detailed timeline of education and work history
+- **Projects** - Portfolio of technical and environmental projects
+- **Courses** - Educational resources and documentation
 
 ---
 
-### 📝 TODO Notes
+## 🎯 Featured Content
 
-Look for `<!-- TODO: ... -->` comments in content files for placeholders to fill in later.
+### Research Highlights
+- **NASA ECOSTRESS Featured Work** - Wildfire thermal imagery analysis featured on NASA homepage for over a month
+- **UCLA JIFRESSE Research** - Advanced satellite remote sensing and wildfire analysis
+- **Regeneron Science Talent Search** - Research on plant drought stress using ECOSTRESS data
+
+### Environmental Impact
+- **500+ Trees Planted** - Through "The Little Tree That Could" book proceeds
+- **300+ Participants** - Engaged through Harmony with Nature programs
+- **$1M Research Project** - AI-based wildfire response system with Orange County Fire Department
+
+### Recognition
+- **NASA JPL Homepage Feature** - ECOSTRESS wildfire imagery (1+ month display)
+- **Barnes & Noble** - Recognition for children's environmental literature
+- **Yale Young Global Scholars** - Speaker on plastic pollution and environmental challenges
+- **California All-State Band** - Musical excellence and leadership
 
 ---
 
-### 🆘 Need Help?
+## 📧 Contact
 
-- **Hugo Blox Documentation:** https://docs.hugoblox.com/
-- **Community Discord:** https://discord.gg/z8wNYzb
-- **Hugo Documentation:** https://gohugo.io/documentation/
+For inquiries about research, collaborations, or speaking engagements:
+
+- 📧 Email: [qianlechen4324@gmail.com](mailto:qianlechen4324@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/qianle-chen](https://www.linkedin.com/in/qianle-chen/)
+- 🌱 Nonprofit: [HarmonyWithNature.org](https://HarmonyWithNature.org)
 
 ---
 
-MIT © 2016-Present [George Cushen](https://georgecushen.com)
+Built with [Hugo Blox Builder](https://hugoblox.com/) • Deployed on GitHub Pages
 
-<!--START_SECTION:news-->
-<!--END_SECTION:news-->
+© 2025 Qianle (Bill) Chen

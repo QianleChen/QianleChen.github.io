@@ -31,12 +31,10 @@ I founded **Harmony Sounds Outreach**, a student-led initiative dedicated to bri
 
 The experience of connecting with elderly audiences through music has been incredibly rewarding, teaching me about leadership, community engagement, and the universal power of music to bridge generational gaps.
 
-
 <figure style="margin: 2rem 0;">
-  <img src="IMG_6455.jpeg" alt="PhotoShot" style="width: 100%; max-width: 800px; display: block; margin: 0 auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-  <figcaption style="text-align: center; margin-top: 1rem; font-style: italic; color: #666;">Presenting research findings and discussing methodologies with faculty advisors</figcaption>
+  <img src="CommunityService.jpg" alt="Harmony Sounds Outreach Community Service" style="width: 100%; max-width: 800px; display: block; margin: 0 auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <figcaption style="text-align: center; margin-top: 1rem; font-style: italic; color: #666;">Performing at senior centers through Harmony Sounds Outreach - bringing music to elderly community members</figcaption>
 </figure>
-
 
 ## Performance Ensembles
 
@@ -65,6 +63,16 @@ As **Low Brass Section Leader**, I took on additional responsibilities beyond my
 - Provided technical guidance and musical direction
 - Fostered team cohesion and collaborative spirit
 - Served as liaison between section members and conductors
+
+<figure style="margin: 2rem 0;">
+  <img src="StagePhoto.jpg" alt="Wind Ensemble Stage Performance" style="width: 100%; max-width: 800px; display: block; margin: 0 auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <figcaption style="text-align: center; margin-top: 1rem; font-style: italic; color: #666;">Performing as 1st Chair Tuba with the Wind Ensemble on stage</figcaption>
+</figure>
+
+<figure style="margin: 2rem 0;">
+  <img src="IMG_6455.jpeg" alt="Low Brass Section with Peers" style="width: 100%; max-width: 800px; display: block; margin: 0 auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <figcaption style="text-align: center; margin-top: 1rem; font-style: italic; color: #666;">Low Brass Section with music peers</figcaption>
+</figure>
 
 ## Musical Achievement
 
