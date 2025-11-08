@@ -63,9 +63,9 @@ education:
     date_start: 2022-08-01
     date_end: ''
     summary: |
-      **GPA:** Unweighted 3.97/4.00 | Weighted 4.67/4.00
+      **GPA:** Weighted 4.69/4.00
       
-      **Advanced Coursework:** AP Calculus AB, AP Literature, AP Statistics, AP Chinese, AP Computer Science Principles, AP Physics 1, AP Physics C Mechanics, AP World History, AP Gov/Econ
+      **Advanced Coursework:** AP Calculus AB, AP Literature and Composition, AP Environmental Science, AP Statistics, AP Chinese, AP Computer Science Principles, AP Physics 1, AP Physics C Mechanics, AP World History, AP Gov/Econ
       
       **Leadership:** Wind Ensemble First Chair (Euphonium & Tuba), 8+ years music dedication. Performed at Carnegie Hall and Renée and Henry Segerstrom Concert Hall.
   - area: Dual Enrollment (College Coursework)
@@ -181,7 +181,7 @@ skills:
         percent: 95
         icon: musical-note
       - name: Environmental Advocacy
-        description: 'Campus workshops, 250+ participants'
+        description: 'Campus workshops, 300+ participants'
         percent: 100
         icon: globe-alt
 
@@ -213,20 +213,20 @@ awards:
     icon: hero/heart
     summary: |
       Certified in emergency response, First Aid, and CPR procedures.
-  - title: Carnegie Hall Performance
-    url: https://www.carnegiehall.org/
+  - title: TUSD Honor Band & All-State Band
+    url: https://www.tustinhsmusic.com/
     date: '2023-06-01'
-    awarder: Carnegie Hall
+    awarder: TUSD & State
     icon: hero/musical-note
     summary: |
-      Performed as First Chair with prestigious Pacific Symphony at Carnegie Hall, representing TUSD honor band.
+      Performed as First, representing TUSD honor band.
   - title: Renée and Henry Segerstrom Concert Hall Performance
     url: ''
     date: '2024-05-01'
     awarder: Pacific Symphony
     icon: hero/musical-note
     summary: |
-      Performed at the renowned Segerstrom Center for the Arts as part of the Pacific Symphony.
+      Performed at the renowned Segerstrom Center for the Arts as part of the Pacific Symphony. Low brass section leader
 ---
 
 Qianle (Bill) Chen is a Research Assistant at UCLA's Joint Institute for Regional Earth System Science and Engineering, where he analyzes thermal satellite imagery to study wildfire progression and urban heat patterns. His work has been featured in NASA's Caltech Jet Propulsion Lab ECOSTRESS gallery. As the founder and president of Harmony with Nature, a 501(c)(3) nonprofit, he promotes environmental stewardship through educational workshops and sustainability initiatives on campus and in Orange County, engaging over 250 participants. Bill is also a PADI-certified Rescue Diver passionate about marine conservation and a dedicated musician who has performed at Carnegie Hall. He is committed to bridging science, environmental advocacy, and community engagement to create a more sustainable future.

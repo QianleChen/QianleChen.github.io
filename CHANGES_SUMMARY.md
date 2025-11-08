@@ -28,7 +28,6 @@
 - ✓ Updated awards:
   - PADI Rescue Diver Certification
   - Red Cross First Aid & CPR
-  - Carnegie Hall Performance
   - Segerstrom Concert Hall Performance
 - ✓ Updated biography paragraph with current research and nonprofit work
 
@@ -65,7 +64,7 @@
 - Founder & President role
 - 501(c)(3) status
 - Educational workshops, clean-up activities
-- 250+ participants engaged
+- 300+ participants engaged
 - 15+ board members
 - Detailed sections: Mission, Programs, Impact, Future Goals
 - TODO comment added

@@ -72,12 +72,12 @@ Here are some memorable moments from my time at UCLA COSMOS:
 
 <figure style="margin: 2rem 0;">
   <img src="IMG_0310.jpeg" alt="Research Activities" style="width: 100%; max-width: 800px; display: block; margin: 0 auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-  <figcaption style="text-align: center; margin-top: 1rem; font-style: italic; color: #666;">Principle Investigator Professor Sach</figcaption>
+  <figcaption style="text-align: center; margin-top: 1rem; font-style: italic; color: #666;">Principle Investigator Dr. Lawrence Sack</figcaption>
 </figure>
 
 <figure style="margin: 2rem 0;">
   <img src="IMG_03531.jpeg" alt="Laboratory Sessions" style="width: 100%; max-width: 800px; display: block; margin: 0 auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-  <figcaption style="text-align: center; margin-top: 1rem; font-style: italic; color: #666;">Principle Investigator Professor Fisher</figcaption>
+  <figcaption style="text-align: center; margin-top: 1rem; font-style: italic; color: #666;">Principle Investigator Dr. Joshua B. Fisher</figcaption>
 </figure>
 
 <figure style="margin: 2rem 0;">

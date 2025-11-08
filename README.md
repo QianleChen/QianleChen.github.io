@@ -27,7 +27,7 @@ I'm a high school senior and aspiring environmental scientist conducting researc
 
 - 🔥 **Wildfire & Climate Research** - Analyzing thermal satellite imagery to study wildfire progression and urban heat patterns (featured in NASA's Caltech JPL ECOSTRESS gallery)
 - 🤖 **AI for Emergency Response** - Coordinating a $1M research project with Orange County Fire Department to develop AI-based decision-support models
-- 🌱 **Environmental Stewardship** - Founder & President of Harmony with Nature, a 501(c)(3) nonprofit engaging 250+ participants in sustainability education
+- 🌱 **Environmental Stewardship** - Founder & President of Harmony with Nature, a 501(c)(3) nonprofit engaging 300+ participants in sustainability education
 - 📊 **IoT & Data Science** - Developed an air quality monitoring system with Python analytics and mobile app deployment
 
 I'm passionate about applying remote sensing, GIS, and data science to address environmental challenges while bridging research and community action.
@@ -59,7 +59,7 @@ I'm passionate about applying remote sensing, GIS, and data science to address e
 
 ## 🎓 Education
 
-- **Arnold O. Beckman High School** - GPA: 3.97/4.00 (Unweighted), 4.67/4.00 (Weighted)
+- **Arnold O. Beckman High School** - GPA: 4.69/4.00 (Weighted)
 - **Irvine Valley College** - Dual Enrollment, GPA: 4.00/4.00
 - **California State Summer School for Mathematics and Science** - Research Program (2025)
 

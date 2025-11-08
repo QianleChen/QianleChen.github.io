@@ -29,7 +29,7 @@ As Founder and President since August 2022, I have:
 - **Established Infrastructure:** Created an environmental stewardship nonprofit from the ground up, obtaining 501(c)(3) tax-exempt status
 - **Board Development:** Organized and managed 15+ board members, fostering collaborative leadership
 - **Program Development:** Designed and implemented educational workshops on campus and community-wide
-- **Community Impact:** Engaged 250+ participants through workshops, clean-up activities, and sustainability initiatives
+- **Community Impact:** Engaged 300+ participants through workshops, clean-up activities, and sustainability initiatives
 - **Outreach & Partnerships:** Built relationships with environmental organizations and community stakeholders in Orange County
 
 ## Key Programs & Initiatives
@@ -45,14 +45,14 @@ As Founder and President since August 2022, I have:
 - Hands-on stewardship activities engaging community volunteers
 
 ### Community Engagement
-- Outreach to 250+ participants across Orange County
+- Outreach to 300+ participants across Orange County
 - Youth leadership development in environmental advocacy
 - Collaboration with schools, nonprofits, and local government
 
 ## Impact & Outcomes
 
 - **501(c)(3) Status:** Successfully established legal nonprofit framework
-- **Community Reach:** 250+ participants engaged in environmental programs
+- **Community Reach:** 300+ participants engaged in environmental programs
 - **Youth Leadership:** 15+ board members trained in environmental advocacy and nonprofit management
 - **Educational Programs:** Multiple workshops promoting sustainability on campus and in the community
 
