@@ -67,7 +67,7 @@ education:
     summary: |
       **GPA:** Weighted 4.69/4.00
       
-      **Advanced Coursework:** AP Calculus AB, AP Literature and Composition, AP Environmental Science, AP Statistics, AP Chinese, AP Computer Science Principles, AP Physics 1, AP Physics C Mechanics, AP World History, AP Gov/Econ
+      **Advanced Coursework:** AP Calculus, AP Literature, AP Statistics, AP Chinese, AP Computer Science, AP Physics1, AP Physics C Mechanics, AP World History, AP Government, AP Economics, AP Environmental Science
       
       **Leadership:** Wind Ensemble First Chair (Euphonium & Tuba), 8+ years music dedication. Performed at Disney Campus and Renée and Henry Segerstrom Concert Hall.
   - area: Dual Enrollment (College Coursework)
@@ -78,7 +78,7 @@ education:
     summary: |
       **GPA:** 4.00/4.00
       
-      **Courses:** Intro to Computer Systems, Environmental Law, Intro to Sustainability, Intro to Ecology, Intro to Psychology, Biological Psychology, Principles Micro Econ, Principles Macro Econ
+      **Courses:** Intro to Computer Systems, Environmental Law, Intro to Sustainability, Intro to Ecology, Intro to Psychology, Biological Psychology, Principles Macro Econ, Society and Sustainability, Evolution
       
       Taking advanced college courses while in high school, demonstrating academic rigor and commitment to interdisciplinary learning.
   - area: Research Summer Program
@@ -179,7 +179,7 @@ skills:
         percent: 90
         icon: beaker
       - name: Music Performance
-        description: 'Euphonium & Tuba, Carnegie Hall performances'
+        description: 'Euphonium & Tuba, Disney Campus'
         percent: 95
         icon: musical-note
       - name: Environmental Advocacy
@@ -221,14 +221,7 @@ awards:
     awarder: TUSD & State
     icon: hero/musical-note
     summary: |
-      Performed as First, representing TUSD honor band.
-  - title: Renée and Henry Segerstrom Concert Hall Performance
-    url: ''
-    date: '2024-05-01'
-    awarder: Pacific Symphony
-    icon: hero/musical-note
-    summary: |
-      Performed at the renowned Segerstrom Center for the Arts as part of the Pacific Symphony. Low brass section leader
+      Performed as First Chair, representing TUSD honor band.
 ---
 
 Qianle (Bill) Chen is a Research Assistant at UCLA's Joint Institute for Regional Earth System Science and Engineering, where he analyzes thermal satellite imagery to study wildfire progression and urban heat patterns. His work has been featured in NASA's Caltech Jet Propulsion Lab ECOSTRESS gallery. As the founder and president of Harmony with Nature, a 501(c)(3) nonprofit, he promotes environmental stewardship through educational workshops and sustainability initiatives on campus and in Orange County, engaging over 300 participants. Bill is also a PADI-certified Rescue Diver passionate about marine conservation and a dedicated musician who has performed at Disney Campus and Renée and Henry Segerstrom Concert Hall. He is committed to bridging science, environmental advocacy, and community engagement to create a more sustainable future.
