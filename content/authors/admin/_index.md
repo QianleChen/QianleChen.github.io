@@ -32,6 +32,8 @@ organizations:
     url: https://jifresse.ucla.edu/
   - name: NASA Jet Propulsion Laboratory Ecostress Division, CalTech
     url: https://ecostress.jpl.nasa.gov/
+  - name: Software and Cloud Computing Lab, Cal Poly Pomona
+    url: https://yusun.io/
   - name: Arnold O. Beckman High School
     url: https://beckman.tustin.k12.ca.us/
 
@@ -67,7 +69,7 @@ education:
       
       **Advanced Coursework:** AP Calculus AB, AP Literature and Composition, AP Environmental Science, AP Statistics, AP Chinese, AP Computer Science Principles, AP Physics 1, AP Physics C Mechanics, AP World History, AP Gov/Econ
       
-      **Leadership:** Wind Ensemble First Chair (Euphonium & Tuba), 8+ years music dedication. Performed at Carnegie Hall and Renée and Henry Segerstrom Concert Hall.
+      **Leadership:** Wind Ensemble First Chair (Euphonium & Tuba), 8+ years music dedication. Performed at Disney Campus and Renée and Henry Segerstrom Concert Hall.
   - area: Dual Enrollment (College Coursework)
     institution: Irvine Valley College
     icon: ""
@@ -229,4 +231,4 @@ awards:
       Performed at the renowned Segerstrom Center for the Arts as part of the Pacific Symphony. Low brass section leader
 ---
 
-Qianle (Bill) Chen is a Research Assistant at UCLA's Joint Institute for Regional Earth System Science and Engineering, where he analyzes thermal satellite imagery to study wildfire progression and urban heat patterns. His work has been featured in NASA's Caltech Jet Propulsion Lab ECOSTRESS gallery. As the founder and president of Harmony with Nature, a 501(c)(3) nonprofit, he promotes environmental stewardship through educational workshops and sustainability initiatives on campus and in Orange County, engaging over 250 participants. Bill is also a PADI-certified Rescue Diver passionate about marine conservation and a dedicated musician who has performed at Carnegie Hall. He is committed to bridging science, environmental advocacy, and community engagement to create a more sustainable future.
+Qianle (Bill) Chen is a Research Assistant at UCLA's Joint Institute for Regional Earth System Science and Engineering, where he analyzes thermal satellite imagery to study wildfire progression and urban heat patterns. His work has been featured in NASA's Caltech Jet Propulsion Lab ECOSTRESS gallery. As the founder and president of Harmony with Nature, a 501(c)(3) nonprofit, he promotes environmental stewardship through educational workshops and sustainability initiatives on campus and in Orange County, engaging over 300 participants. Bill is also a PADI-certified Rescue Diver passionate about marine conservation and a dedicated musician who has performed at Disney Campus and Renée and Henry Segerstrom Concert Hall. He is committed to bridging science, environmental advocacy, and community engagement to create a more sustainable future.

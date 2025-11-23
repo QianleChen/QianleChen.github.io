@@ -68,6 +68,35 @@ This work combines **academic research and public outreach**, showing how lingui
   </figcaption>
 </figure>
 
+<figure style="margin: 2rem 0;">
+  <img src="Pic3.jpg" alt="Teaching Linguistics to Youth" style="width: 100%; max-width: 900px; display: block; margin: 0 auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <figcaption style="text-align: center; margin-top: 1rem; font-style: italic; color: #666;">
+    Leading an interactive linguistics workshop for young students, exploring language patterns and cultural identity.
+  </figcaption>
+</figure>
+
+<figure style="margin: 2rem 0;">
+  <img src="Pic4.jpg" alt="Lecturing Youth on Language Diversity" style="width: 100%; max-width: 900px; display: block; margin: 0 auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <figcaption style="text-align: center; margin-top: 1rem; font-style: italic; color: #666;">
+    Teaching kids about the importance of linguistic diversity and cross-cultural communication through Lingua Harmonia.
+  </figcaption>
+</figure>
+
+### Teaching Materials & Curriculum
+
+Example slides from the first English lesson designed for ESL students, using interactive guided questions to support comprehension.
+
+<figure style="margin: 2rem 0;">
+  <img src="Pic5.1.png" alt="English Lesson Slide 1" style="width: 100%; max-width: 900px; display: block; margin: 0 auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+</figure>
+
+<figure style="margin: 2rem 0;">
+  <img src="Pic5.2.png" alt="English Lesson Slide 2" style="width: 100%; max-width: 900px; display: block; margin: 0 auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <figcaption style="text-align: center; margin-top: 1rem; font-style: italic; color: #666;">
+    Comprehension exercises designed to help ESL students practice language skills in a supportive learning environment.
+  </figcaption>
+</figure>
+
 ---
 
 ## Activity Summary (for Applications)
